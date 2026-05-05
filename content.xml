@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505125012UEJESQ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505125012HRTEQ6</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¿Por qué suben los precios? Análisis de un mercado real</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de aprendizaje 1º de Bachillerato en la materia de Economía </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Alicia Espejo Morales </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje dirigida a alumnado de 1º de Bachillerato en la materia de Economía.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777973392275</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1777973598522-ivxuta74i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777973598522-ivxuta74i</odePageId>
+      <odeBlockId>block-1777973603731-avwu99ru2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777973598522-ivxuta74i</odePageId>
+          <odeBlockId>block-1777973603731-avwu99ru2</odeBlockId>
+          <odeIdeviceId>idevice-1777973603729-qi7xltu2j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4><strong>¿Por qué suben los precios? Análisis de un mercado real</strong></h4>
+<p><br />Bienvenidos a este proyecto de Economía, en el que vamos a investigar cómo funciona el mercado y por qué los precios de algunos productos o servicios cambian con el tiempo.</p>
+<p>A lo largo de las próximas sesiones trabajaremos a partir de situaciones reales y cercanas, analizando ejemplos que forman parte de nuestro día a día, como la subida del precio de la vivienda, los alimentos, la gasolina u otros productos de consumo habitual.</p>
+<p>Para ello, trabajaremos de forma cooperativa, utilizando diferentes herramientas digitales que nos permitirán buscar información, analizar datos, organizar ideas y comunicar nuestras conclusiones de forma clara.</p>
+<p>El objetivo principal de este proyecto es comprender la relación entre la oferta, la demanda y los precios, desarrollando al mismo tiempo habilidades relacionadas con el trabajo en equipo, el pensamiento crítico y el uso responsable de la tecnología.</p>
+<p>Al finalizar el proyecto, cada grupo elaborará una presentación digital en la que explicará un caso real de subida de precios, analizando sus posibles causas y consecuencias.</p>
+<p>¡Comenzamos!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777973603729-qi7xltu2j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4><strong>¿Por qué suben los precios? Análisis de un mercado real</strong></h4>\n<p><br />Bienvenidos a este proyecto de Economía, en el que vamos a investigar cómo funciona el mercado y por qué los precios de algunos productos o servicios cambian con el tiempo.</p>\n<p>A lo largo de las próximas sesiones trabajaremos a partir de situaciones reales y cercanas, analizando ejemplos que forman parte de nuestro día a día, como la subida del precio de la vivienda, los alimentos, la gasolina u otros productos de consumo habitual.</p>\n<p>Para ello, trabajaremos de forma cooperativa, utilizando diferentes herramientas digitales que nos permitirán buscar información, analizar datos, organizar ideas y comunicar nuestras conclusiones de forma clara.</p>\n<p>El objetivo principal de este proyecto es comprender la relación entre la oferta, la demanda y los precios, desarrollando al mismo tiempo habilidades relacionadas con el trabajo en equipo, el pensamiento crítico y el uso responsable de la tecnología.</p>\n<p>Al finalizar el proyecto, cada grupo elaborará una presentación digital en la que explicará un caso real de subida de precios, analizando sus posibles causas y consecuencias.</p>\n<p>¡Comenzamos!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777973897915-futa55bc5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777973897915-futa55bc5</odePageId>
+      <odeBlockId>block-1777973899532-71kmi37bm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777973897915-futa55bc5</odePageId>
+          <odeBlockId>block-1777973899532-71kmi37bm</odeBlockId>
+          <odeIdeviceId>idevice-1777973899530-6dpd4jvcg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4><strong>¿Por qué suben los precios? Análisis de un mercado real </strong><strong></strong></h4>
+<p><strong></strong></p>
+<p><strong>Centro de interés o temática</strong></p>
+<p>El proyecto se centra en el análisis del funcionamiento del mercado a través de situaciones reales, como la subida de precios en productos cercanos al alumnado (vivienda, gasolina o alimentos). Se trabajará especialmente la relación entre oferta, demanda y precios.</p>
+<p><br /><strong>Nivel al que va dirigido </strong></p>
+<p>1º de Bachillerato </p>
+<p><strong>Temporalización aproximada</strong></p>
+<p>Entre 6 y 7 sesiones de 55 minutos. </p>
+<p><strong>Materia o materias implicadas </strong></p>
+<p>La principal es la materia de Economía. De forma secundaria, puede relacionarse con Matemáticas en el análisis de datos, aunque no se trabaja de forma directa.</p>
+<p><strong>Idioma</strong></p>
+<p>Castellano </p>
+<p><br /><strong>Descripción general </strong></p>
+<p>El alumnado trabajará en grupos para investigar un caso real relacionado con la subida de precios de un producto o servicio. A partir de ahí, deberán buscar información en internet, seleccionarla y organizarla para elaborar una presentación digital.</p>
+<p>Durante el proceso, se trabajará el uso de herramientas digitales, la búsqueda de información fiable y la comprensión de conceptos económicos como la oferta, la demanda y el equilibrio de mercado.</p>
+<p>El producto final será una presentación en la que expliquen el caso elegido, sus causas y consecuencias, que expondrán al resto de la clase.</p>
+<p><br /><strong>Justificación </strong></p>
+<p>Este proyecto se plantea a partir de la reflexión realizada en la tarea anterior, donde se detectaron algunas dificultades en el uso de herramientas digitales y en la búsqueda de información por parte del alumnado.</p>
+<p>Por un lado, se ha elegido una temática cercana a su realidad, como es la subida de precios, para favorecer la motivación. En la experiencia previa se observó que cuando los ejemplos son reales, el alumnado participa más.</p>
+<p>Por otro lado, se plantea el uso de metodologías activas como el trabajo en grupo, pero intentando mejorar algunos aspectos que no funcionaron del todo bien. Por ejemplo, se pretende guiar más el proceso de búsqueda de información y no asumir que todo el alumnado tiene la misma competencia digital.</p>
+<p>También se tiene en cuenta la necesidad de anticipar posibles problemas técnicos, organizando la actividad de forma más estructurada. Aun asi, es posible que sigan apareciendo algunas dificultades, ya que no todos los alumnos parten del mismo nivel.</p>
+<p>En general, este proyecto intenta mejorar la práctica anterior, manteniendo lo que funcionó bien e introduciendo algunos cambios para que el aprendizaje sea más claro.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777973899530-6dpd4jvcg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4><strong>¿Por qué suben los precios? Análisis de un mercado real </strong><strong></strong></h4>\n<p><strong></strong></p>\n<p><strong>Centro de interés o temática</strong></p>\n<p>El proyecto se centra en el análisis del funcionamiento del mercado a través de situaciones reales, como la subida de precios en productos cercanos al alumnado (vivienda, gasolina o alimentos). Se trabajará especialmente la relación entre oferta, demanda y precios.</p>\n<p><br /><strong>Nivel al que va dirigido </strong></p>\n<p>1º de Bachillerato </p>\n<p><strong>Temporalización aproximada</strong></p>\n<p>Entre 6 y 7 sesiones de 55 minutos. </p>\n<p><strong>Materia o materias implicadas </strong></p>\n<p>La principal es la materia de Economía. De forma secundaria, puede relacionarse con Matemáticas en el análisis de datos, aunque no se trabaja de forma directa.</p>\n<p><strong>Idioma</strong></p>\n<p>Castellano </p>\n<p><br /><strong>Descripción general </strong></p>\n<p>El alumnado trabajará en grupos para investigar un caso real relacionado con la subida de precios de un producto o servicio. A partir de ahí, deberán buscar información en internet, seleccionarla y organizarla para elaborar una presentación digital.</p>\n<p>Durante el proceso, se trabajará el uso de herramientas digitales, la búsqueda de información fiable y la comprensión de conceptos económicos como la oferta, la demanda y el equilibrio de mercado.</p>\n<p>El producto final será una presentación en la que expliquen el caso elegido, sus causas y consecuencias, que expondrán al resto de la clase.</p>\n<p><br /><strong>Justificación </strong></p>\n<p>Este proyecto se plantea a partir de la reflexión realizada en la tarea anterior, donde se detectaron algunas dificultades en el uso de herramientas digitales y en la búsqueda de información por parte del alumnado.</p>\n<p>Por un lado, se ha elegido una temática cercana a su realidad, como es la subida de precios, para favorecer la motivación. En la experiencia previa se observó que cuando los ejemplos son reales, el alumnado participa más.</p>\n<p>Por otro lado, se plantea el uso de metodologías activas como el trabajo en grupo, pero intentando mejorar algunos aspectos que no funcionaron del todo bien. Por ejemplo, se pretende guiar más el proceso de búsqueda de información y no asumir que todo el alumnado tiene la misma competencia digital.</p>\n<p>También se tiene en cuenta la necesidad de anticipar posibles problemas técnicos, organizando la actividad de forma más estructurada. Aun asi, es posible que sigan apareciendo algunas dificultades, ya que no todos los alumnos parten del mismo nivel.</p>\n<p>En general, este proyecto intenta mejorar la práctica anterior, manteniendo lo que funcionó bien e introduciendo algunos cambios para que el aprendizaje sea más claro.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777974061563-ft7uv252c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Uso seguro de la tecnología</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Uso seguro de la tecnología</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777974061563-ft7uv252c</odePageId>
+      <odeBlockId>block-1777974213158-kzsw4ymsz</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974061563-ft7uv252c</odePageId>
+          <odeBlockId>block-1777974213158-kzsw4ymsz</odeBlockId>
+          <odeIdeviceId>idevice-1777974213156-73cnwzg96</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4><strong>Infografía uso de la tecnología </strong></h4>
+<p><a href="https://www.canva.com/design/DAHHF4nfze8/22X1RvlJ-4pVBATcOzuLuQ/view?utm_content=DAHHF4nfze8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=viewer" title="Identidad digital Alicia Espejo ">https://www.canva.com/design/DAHHF4nfze8/22X1RvlJ-4pVBATcOzuLuQ/view?utm_content=DAHHF4nfze8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=viewer</a></p>
+<p><br /></p>
+<p>Durante este proyecto es importante hacer un uso responsable de la tecnología.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777974213156-73cnwzg96","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4><strong>Infografía uso de la tecnología </strong></h4>\n<p><a href=\"https://www.canva.com/design/DAHHF4nfze8/22X1RvlJ-4pVBATcOzuLuQ/view?utm_content=DAHHF4nfze8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=viewer\" title=\"Identidad digital Alicia Espejo \">https://www.canva.com/design/DAHHF4nfze8/22X1RvlJ-4pVBATcOzuLuQ/view?utm_content=DAHHF4nfze8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=viewer</a></p>\n<p><br /></p>\n<p>Durante este proyecto es importante hacer un uso responsable de la tecnología.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777974460619-yv6cen21m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777974460619-yv6cen21m</odePageId>
+      <odeBlockId>block-1777974463380-kv8nprmej</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974460619-yv6cen21m</odePageId>
+          <odeBlockId>block-1777974463380-kv8nprmej</odeBlockId>
+          <odeIdeviceId>idevice-1777974463378-h96sxqynd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El <strong>producto final</strong> del proyecto consistirá en la elaboración de una presentación digital en grupo.</p>
+<p>En mi caso, dentro de la situación de aprendizaje “¿Por qué suben los precios? Análisis de un mercado real”, el producto final que realizará el alumnado será una presentación digital en la que expliquen un caso real de subida de precios, sus causas y sus consecuencias.</p>
+<p>La herramienta principal que propondré será Google Slides, ya que permite al alumnado trabajar de forma colaborativa y sencilla, sin necesidad de instalar programas adicionales. Además, facilita que el profesorado pueda hacer seguimiento del trabajo en tiempo real.</p>
+<p>He elegido esta herramienta porque es bastante versátil y se adapta bien al contexto del centro, donde el alumnado dispone de cuentas educativas y acceso a dispositivos en el aula. También considero que es adecuada para el nivel de 1º de Bachillerato, ya que no requiere un nivel alto de competencia digital, pero permite trabajar aspectos importantes como la organización de la información y la comunicación de ideas.</p>
+<p>Por otro lado, el uso de presentaciones digitales obliga al alumnado a sintetizar la información y seleccionar lo más relevante, lo que encaja con los objetivos del proyecto.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777974463378-h96sxqynd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El <strong>producto final</strong> del proyecto consistirá en la elaboración de una presentación digital en grupo.</p>\n<p>En mi caso, dentro de la situación de aprendizaje “¿Por qué suben los precios? Análisis de un mercado real”, el producto final que realizará el alumnado será una presentación digital en la que expliquen un caso real de subida de precios, sus causas y sus consecuencias.</p>\n<p>La herramienta principal que propondré será Google Slides, ya que permite al alumnado trabajar de forma colaborativa y sencilla, sin necesidad de instalar programas adicionales. Además, facilita que el profesorado pueda hacer seguimiento del trabajo en tiempo real.</p>\n<p>He elegido esta herramienta porque es bastante versátil y se adapta bien al contexto del centro, donde el alumnado dispone de cuentas educativas y acceso a dispositivos en el aula. También considero que es adecuada para el nivel de 1º de Bachillerato, ya que no requiere un nivel alto de competencia digital, pero permite trabajar aspectos importantes como la organización de la información y la comunicación de ideas.</p>\n<p>Por otro lado, el uso de presentaciones digitales obliga al alumnado a sintetizar la información y seleccionar lo más relevante, lo que encaja con los objetivos del proyecto.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777974721203-rpvs5wr73</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777974721203-rpvs5wr73</odePageId>
+      <odeBlockId>block-1777974939684-8cuyv1k4d</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777974721203-rpvs5wr73</odePageId>
+          <odeBlockId>block-1777974939684-8cuyv1k4d</odeBlockId>
+          <odeIdeviceId>idevice-1777974939682-b9gyiee1q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4><strong>Recursos para el alumnado</strong></h4>
+<p>En este apartado encontrarás recursos que te ayudarán a comprender los contenidos del proyecto y a desarrollar el trabajo en grupo.</p>
+<p>En este espacio podrás consultar vídeos explicativos, noticias económicas, datos oficiales y tutoriales relacionados con la oferta, la demanda y la subida de precios.</p>
+<p>Acceso al recurso del proyecto (Padlet): </p>
+<p><a href="https://padlet.com/aliciaespejo1/recursos-para-el-proyecto-por-que-suben-los-precios-m33pdjzs6c3npeif" title="Padlet Alicia Espejo">https://padlet.com/aliciaespejo1/recursos-para-el-proyecto-por-que-suben-los-precios-m33pdjzs6c3npeif</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777974939682-b9gyiee1q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4><strong>Recursos para el alumnado</strong></h4>\n<p>En este apartado encontrarás recursos que te ayudarán a comprender los contenidos del proyecto y a desarrollar el trabajo en grupo.</p>\n<p>En este espacio podrás consultar vídeos explicativos, noticias económicas, datos oficiales y tutoriales relacionados con la oferta, la demanda y la subida de precios.</p>\n<p>Acceso al recurso del proyecto (Padlet): </p>\n<p><a href=\"https://padlet.com/aliciaespejo1/recursos-para-el-proyecto-por-que-suben-los-precios-m33pdjzs6c3npeif\" title=\"Padlet Alicia Espejo\">https://padlet.com/aliciaespejo1/recursos-para-el-proyecto-por-que-suben-los-precios-m33pdjzs6c3npeif</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777975054644-uf69rtenn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas digitales</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777975054644-uf69rtenn</odePageId>
+      <odeBlockId>block-1777975075516-l5oenromk</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777975054644-uf69rtenn</odePageId>
+          <odeBlockId>block-1777975075516-l5oenromk</odeBlockId>
+          <odeIdeviceId>idevice-1777975075515-gl6up86l3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4><strong>Herramienta digitales </strong></h4>
+<p>En este apartado se recogen algunas herramientas digitales que utilizaremos durante el proyecto y que pueden resultar útiles tanto para el alumnado como para el profesorado.</p>
+<p>Acceso al recurso del proyecto (Wakelet):</p>
+<p><a href="https://wakelet.com/wake/m8uG7U8dQe7ierpYAnZ2U" title="Wakelet Alicia Espejo">https://wakelet.com/wake/m8uG7U8dQe7ierpYAnZ2U</a></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777975075515-gl6up86l3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4><strong>Herramienta digitales </strong></h4>\n<p>En este apartado se recogen algunas herramientas digitales que utilizaremos durante el proyecto y que pueden resultar útiles tanto para el alumnado como para el profesorado.</p>\n<p>Acceso al recurso del proyecto (Wakelet):</p>\n<p><a href=\"https://wakelet.com/wake/m8uG7U8dQe7ierpYAnZ2U\" title=\"Wakelet Alicia Espejo\">https://wakelet.com/wake/m8uG7U8dQe7ierpYAnZ2U</a></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777975376316-c4l8mlew8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Organización del proyecto</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777975376316-c4l8mlew8</odePageId>
+      <odeBlockId>block-1777975388987-p7vwdbf5y</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777975376316-c4l8mlew8</odePageId>
+          <odeBlockId>block-1777975388987-p7vwdbf5y</odeBlockId>
+          <odeIdeviceId>idevice-1777975388986-v1bg682yb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se presenta la organización del proyecto por sesiones.</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777975388986-v1bg682yb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se presenta la organización del proyecto por sesiones.</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777975458014-cr18ikd1d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777975458014-cr18ikd1d</odePageId>
+      <odeBlockId>block-1777975492005-mbd2vrvhd</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777975458014-cr18ikd1d</odePageId>
+          <odeBlockId>block-1777975492005-mbd2vrvhd</odeBlockId>
+          <odeIdeviceId>idevice-1777975492003-d20dk9an2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4><strong>Instrumentos de evaluación del proyecto: ¿Por qué suben los precios?</strong></h4>
+<p><br />En este proyecto se utilizarán diferentes instrumentos de evaluación con el objetivo de valorar tanto el resultado final como el proceso de aprendizaje del alumnado. A continuación, se describen tres instrumentos que se emplearán a lo largo del desarrollo de la situación de aprendizaje.</p>
+<p><strong>Rúbrica de la presentación final </strong></p>
+<p>Este instrumento se utilizará para evaluar el producto final del proyecto, que consiste en una presentación digital en la que el alumnado explica un caso real de subida de precios.</p>
+<p>A través de la rúbrica se valorarán aspectos como la comprensión de los contenidos (oferta, demanda y precios), la organización de la información, la claridad en la exposición y el uso adecuado de herramientas digitales.</p>
+<p>Se utilizará al final del proyecto, durante la exposición de los trabajos.</p>
+<p>En cuanto a la obtención de datos, la rúbrica permite recoger información de forma más estructurada y objetiva, ya que se establecen criterios claros para todos los grupos. Esto facilita comparar resultados y detectar aspectos que necesitan mejorar.</p>
+<p>Respecto a las posibles variables, hay que tener en cuenta que no todo el alumnado tiene el mismo nivel de competencia digital o de expresión oral. Por ello, se valorará también el esfuerzo y la implicación, no solo el resultado final.</p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" width="577" height="315" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong></strong></p>
+<p><strong>Diana de evaluación (autoevaluación)</strong></p>
+<p>La diana de evaluación se utilizará como instrumento de autoevaluación al finalizar el proyecto. El objetivo es que el alumnado reflexione sobre su propio aprendizaje y su participación en el trabajo en grupo.</p>
+<p>Se evaluarán aspectos como la participación, la comprensión de los contenidos, el uso de herramientas digitales y la implicación en el desarrollo del proyecto.</p>
+<p>Se aplicará de forma individual al final del proyecto.</p>
+<p>Este instrumento permite recoger información sobre cómo percibe el alumnado su propio aprendizaje, lo que aporta una visión diferente a la del profesorado.</p>
+<p>Como posible dificultad, puede haber diferencias entre la autoevaluación del alumnado y la valoración real. Por ello, estos datos se utilizarán como complemento a otros instrumentos de evaluación.</p>
+<p> <img src="{{context_path}}/content/resources/mceclip2.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><br /><strong>Cuestionario (evaluación del proceso de aprendizaje)</strong></p>
+<p>Se utilizará un cuestionario, por ejemplo a través de Google Forms, para evaluar el proceso de aprendizaje y comprobar la comprensión de los contenidos trabajados.</p>
+<p>El cuestionario incluirá preguntas sobre conceptos básicos (oferta, demanda, precios), así como sobre la interpretación de situaciones reales relacionadas con la subida de precios.</p>
+<p>Se aplicará al final del proyecto.</p>
+<p>En cuanto a la obtención de datos, este instrumento permite recoger información cuantitativa sobre el nivel de comprensión del alumnado, lo que facilita detectar posibles dificultades.</p>
+<p>En relación con las variables, los resultados pueden verse afectados por factores como la motivación del alumnado o su comprensión lectora, por lo que será necesario interpretar los datos con cierta flexibilidad y utilizarlos para mejorar el proceso de enseñanza.</p>
+<p><br /><strong>Conclusión</strong></p>
+<p>En conjunto, el uso de diferentes instrumentos de evaluación permite obtener una visión más completa del aprendizaje del alumnado, ya que se combinan la evaluación del producto final, del proceso y de la propia percepción del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777975492003-d20dk9an2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4><strong>Instrumentos de evaluación del proyecto: ¿Por qué suben los precios?</strong></h4>\n<p><br />En este proyecto se utilizarán diferentes instrumentos de evaluación con el objetivo de valorar tanto el resultado final como el proceso de aprendizaje del alumnado. A continuación, se describen tres instrumentos que se emplearán a lo largo del desarrollo de la situación de aprendizaje.</p>\n<p><strong>Rúbrica de la presentación final </strong></p>\n<p>Este instrumento se utilizará para evaluar el producto final del proyecto, que consiste en una presentación digital en la que el alumnado explica un caso real de subida de precios.</p>\n<p>A través de la rúbrica se valorarán aspectos como la comprensión de los contenidos (oferta, demanda y precios), la organización de la información, la claridad en la exposición y el uso adecuado de herramientas digitales.</p>\n<p>Se utilizará al final del proyecto, durante la exposición de los trabajos.</p>\n<p>En cuanto a la obtención de datos, la rúbrica permite recoger información de forma más estructurada y objetiva, ya que se establecen criterios claros para todos los grupos. Esto facilita comparar resultados y detectar aspectos que necesitan mejorar.</p>\n<p>Respecto a las posibles variables, hay que tener en cuenta que no todo el alumnado tiene el mismo nivel de competencia digital o de expresión oral. Por ello, se valorará también el esfuerzo y la implicación, no solo el resultado final.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" width=\"577\" height=\"315\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><strong></strong></p>\n<p><strong>Diana de evaluación (autoevaluación)</strong></p>\n<p>La diana de evaluación se utilizará como instrumento de autoevaluación al finalizar el proyecto. El objetivo es que el alumnado reflexione sobre su propio aprendizaje y su participación en el trabajo en grupo.</p>\n<p>Se evaluarán aspectos como la participación, la comprensión de los contenidos, el uso de herramientas digitales y la implicación en el desarrollo del proyecto.</p>\n<p>Se aplicará de forma individual al final del proyecto.</p>\n<p>Este instrumento permite recoger información sobre cómo percibe el alumnado su propio aprendizaje, lo que aporta una visión diferente a la del profesorado.</p>\n<p>Como posible dificultad, puede haber diferencias entre la autoevaluación del alumnado y la valoración real. Por ello, estos datos se utilizarán como complemento a otros instrumentos de evaluación.</p>\n<p> <img src=\"{{context_path}}/content/resources/mceclip2.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /><strong>Cuestionario (evaluación del proceso de aprendizaje)</strong></p>\n<p>Se utilizará un cuestionario, por ejemplo a través de Google Forms, para evaluar el proceso de aprendizaje y comprobar la comprensión de los contenidos trabajados.</p>\n<p>El cuestionario incluirá preguntas sobre conceptos básicos (oferta, demanda, precios), así como sobre la interpretación de situaciones reales relacionadas con la subida de precios.</p>\n<p>Se aplicará al final del proyecto.</p>\n<p>En cuanto a la obtención de datos, este instrumento permite recoger información cuantitativa sobre el nivel de comprensión del alumnado, lo que facilita detectar posibles dificultades.</p>\n<p>En relación con las variables, los resultados pueden verse afectados por factores como la motivación del alumnado o su comprensión lectora, por lo que será necesario interpretar los datos con cierta flexibilidad y utilizarlos para mejorar el proceso de enseñanza.</p>\n<p><br /><strong>Conclusión</strong></p>\n<p>En conjunto, el uso de diferentes instrumentos de evaluación permite obtener una visión más completa del aprendizaje del alumnado, ya que se combinan la evaluación del producto final, del proceso y de la propia percepción del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777975769606-9n0u5tfc5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777975769606-9n0u5tfc5</odePageId>
+      <odeBlockId>block-1777975815838-28vwd0sub</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777975769606-9n0u5tfc5</odePageId>
+          <odeBlockId>block-1777975815838-28vwd0sub</odeBlockId>
+          <odeIdeviceId>idevice-1777975815835-qnbfs7aiz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4 style="text-align: left;"><strong>Relacionamos tareas con criterios de evaluación</strong></h4>
+<p>Nombre: Alicia Espejo Morales </p>
+<p>Completa esta tabla. Añade o elimina las filas que no necesites. Puede ser que varias tareas se correspondan con el mismo criterio y se repitan.</p>
+<p><img src="{{context_path}}/content/resources/mceclip3.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img src="{{context_path}}/content/resources/mceclip4.png" /></p>
+<p><img src="{{context_path}}/content/resources/mceclip5.png" />Este proyecto está diseñado para alumnado de 1º de Bachillerato en la materia de Economía. Se basa en el trabajo cooperativo, el uso de metodologías activas y la integración responsable de herramientas digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777975815835-qnbfs7aiz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4 style=\"text-align: left;\"><strong>Relacionamos tareas con criterios de evaluación</strong></h4>\n<p>Nombre: Alicia Espejo Morales </p>\n<p>Completa esta tabla. Añade o elimina las filas que no necesites. Puede ser que varias tareas se correspondan con el mismo criterio y se repitan.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip3.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip4.png\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip5.png\" />Este proyecto está diseñado para alumnado de 1º de Bachillerato en la materia de Economía. Se basa en el trabajo cooperativo, el uso de metodologías activas y la integración responsable de herramientas digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777976845076-y9q7d5d7q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777976845076-y9q7d5d7q</odePageId>
+      <odeBlockId>block-1777977116997-atuyp5spk</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777976845076-y9q7d5d7q</odePageId>
+          <odeBlockId>block-1777977116997-atuyp5spk</odeBlockId>
+          <odeIdeviceId>idevice-1777977116996-qfzi40gmc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong><br />Alicia Espejo Morales</p>
+<p><strong>Descripción</strong><br />Proyecto de Economía dirigido a alumnado de 1º de Bachillerato.</p>
+<p><strong>Licencia de uso</strong><br />Uso educativo.</p>
+<p><strong>Herramientas utilizadas</strong><br />eXeLearning<br />Canva<br />Padlet<br />Wakelet<br />Google Slides</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777977116996-qfzi40gmc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong><br />Alicia Espejo Morales</p>\n<p><strong>Descripción</strong><br />Proyecto de Economía dirigido a alumnado de 1º de Bachillerato.</p>\n<p><strong>Licencia de uso</strong><br />Uso educativo.</p>\n<p><strong>Herramientas utilizadas</strong><br />eXeLearning<br />Canva<br />Padlet<br />Wakelet<br />Google Slides</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
